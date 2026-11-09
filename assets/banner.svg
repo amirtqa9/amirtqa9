@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Observe. Verify. Resume.</title>
+  <desc id="desc">A dark technical banner with a connected graph and the words Observe, Verify, Resume.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1326"/><stop offset="1" stop-color="#12283a"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#90aac1" opacity=".12"/></pattern>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#63d5c6"/><stop offset="1" stop-color="#efaa6b"/></linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <path d="M48 196H1152" stroke="#38546a" opacity=".65"/>
+  <path d="M739 155 814 99 893 137 985 65 1091 112" fill="none" stroke="url(#line)" stroke-width="3"/>
+  <path d="M739 155 838 190 893 137 1030 194 1091 112" fill="none" stroke="#53748b" stroke-width="2" opacity=".8"/>
+  <g fill="#12283a" stroke-width="4"><circle cx="739" cy="155" r="10" stroke="#63d5c6"/><circle cx="814" cy="99" r="10" stroke="#63d5c6"/><circle cx="893" cy="137" r="10" stroke="#f0bb7d"/><circle cx="985" cy="65" r="10" stroke="#f0bb7d"/><circle cx="1091" cy="112" r="10" stroke="#f0bb7d"/><circle cx="838" cy="190" r="7" stroke="#53748b"/><circle cx="1030" cy="194" r="7" stroke="#53748b"/></g>
+  <rect x="48" y="40" width="116" height="25" rx="5" fill="#193b47"/>
+  <text x="61" y="57" fill="#72e2d0" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">SYSTEMS / 01</text>
+  <text x="48" y="125" fill="#f1f7fb" font-family="Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1">Observe. Verify. Resume.</text>
+  <text x="50" y="162" fill="#a8bdca" font-family="Arial, sans-serif" font-size="17">Tools for inspecting state and moving work forward.</text>
+  <text x="49" y="225" fill="#6f99a8" font-family="Arial, sans-serif" font-size="12" letter-spacing="3">AGENTS  /  SYSTEMS  /  DATA</text>
+</svg>
